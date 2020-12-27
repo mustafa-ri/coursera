@@ -1,0 +1,14 @@
+.text-left{
+clear: right;
+float:left;
+}
+#content {
+	height: 1000px;
+	background-color: bisque;
+	margin: 4%;
+	box-sizing: content-box;
+	overflow: hidden;
+	
+}
+
+
